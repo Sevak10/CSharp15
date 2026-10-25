@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="CollectionExpressionArguments/CollectionExpressionArguments.csproj" Id="db31b67a-d52b-481b-9efb-bff231d92b10" />
+    <Project Path="CSharp15.ClosedHierarchies/CSharp15.ClosedHierarchies.csproj" Id="3fc7cfd3-eacc-48f5-9f36-f57337abd56a" />
+    <Project Path="CSharp15.ExtensionIndexers/CSharp15.ExtensionIndexers.csproj" Id="90ac2b80-853b-4832-a0c1-4b1a7ec04c90" />
+    <Project Path="CSharp15.LabeledBreakAndContinue/CSharp15.LabeledBreakAndContinue.csproj" Id="377951de-05e9-4ca4-ba82-e9823d28097c" />
+    <Project Path="CSharp15.UnsafeEvolution/CSharp15.UnsafeEvolution.csproj" Id="5ac4c4e5-645c-48cf-a9f4-02f9d986d6b0" />
+    <Project Path="UnionTypes/UnionTypes.csproj" Id="e1ab121f-a2b4-4538-a091-d091644f1d10" />
+  </Folder>
+</Solution>
